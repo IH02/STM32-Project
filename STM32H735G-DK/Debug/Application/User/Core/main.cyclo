@@ -1,0 +1,6 @@
+C:/TouchGFXProjects/project1/Core/Src/main.c:783:6:StartDefaultTask	2
+C:/TouchGFXProjects/project1/Core/Src/main.c:231:6:SystemClock_Config	2
+C:/TouchGFXProjects/project1/Core/Src/main.c:289:6:PeriphCommonClock_Config	1
+C:/TouchGFXProjects/project1/Core/Src/main.c:116:5:main	5
+C:/TouchGFXProjects/project1/Core/Src/main.c:890:6:HAL_TIM_PeriodElapsedCallback	2
+C:/TouchGFXProjects/project1/Core/Src/main.c:907:6:Error_Handler	1

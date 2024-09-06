@@ -1,0 +1,21 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+C:/TouchGFXProjects/project1/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:22:6:virtual void Screen1View::tearDownScreen()	0	static
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1View.hpp:11:13:Screen1View::~Screen1View()	8	static
+../../TouchGFX/gui/include/gui/screen1_screen/Screen1View.hpp:11:13:virtual Screen1View::~Screen1View()	8	static
+C:/TouchGFXProjects/project1/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:11:1:Screen1View::Screen1View()	8	static
+C:/TouchGFXProjects/project1/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:17:6:virtual void Screen1View::setupScreen()	0	static
+C:/TouchGFXProjects/project1/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:27:6:void Screen1View::updateUnitDisplay(int)	8	static
+C:/TouchGFXProjects/project1/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:46:6:virtual void Screen1View::clicked_1()	0	static
+C:/TouchGFXProjects/project1/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:47:6:virtual void Screen1View::clicked_2()	0	static
+C:/TouchGFXProjects/project1/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:48:6:virtual void Screen1View::clicked_3()	0	static
+C:/TouchGFXProjects/project1/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:49:6:virtual void Screen1View::clicked_4()	0	static
+C:/TouchGFXProjects/project1/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:50:6:virtual void Screen1View::clicked_5()	0	static
+C:/TouchGFXProjects/project1/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:51:6:virtual void Screen1View::clicked_6()	0	static
+C:/TouchGFXProjects/project1/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:52:6:virtual void Screen1View::clicked_7()	0	static
+C:/TouchGFXProjects/project1/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:53:6:virtual void Screen1View::clicked_8()	0	static
+C:/TouchGFXProjects/project1/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:54:6:virtual void Screen1View::clicked_9()	0	static
+C:/TouchGFXProjects/project1/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:55:6:virtual void Screen1View::clicked_0()	0	static
+C:/TouchGFXProjects/project1/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:57:6:virtual void Screen1View::clicked_del()	8	static
+C:/TouchGFXProjects/project1/TouchGFX/gui/src/screen1_screen/Screen1View.cpp:84:6:virtual void Screen1View::clicked_send()	8	static
